@@ -1,0 +1,1001 @@
+rank,Name,team_id,country,score,events
+1,Dragon Sector,3329,Poland,1092.135,28
+2,Balsn,16978,"Taiwan, Republic of China",1027.851,51
+3,Plaid Parliament of Pwning,284,United States,1005.588,36
+4,p4,5152,Poland,901.68,30
+5,TokyoWesterns,12599,Japan,868.579,41
+6,Tea Deliverers,38838,China,830.589,12
+7,dcua,762,Ukraine,811.351,82
+8,LC↯BC,15726,Russian Federation,796.661,38
+9,perfect blue,53802,United States,743.502,35
+10,Bushwhackers,586,Russian Federation,719.386,48
+11,A*0*E,38901,China,717.827,10
+12,r3kapig,58979,China,708.369,25
+13,hxp,585,idk,631.199,33
+14,Shellphish,285,United States,625.886,33
+15,217,5160,"Taiwan, Republic of China",576.922,11
+16,OpenToAll,9135,idk,569.019,82
+17,0daysober,760,Congo,541.051,14
+18,!SpamAndHex,5347,Hungary,501.149,15
+19,LeaveCat-PLUS,47490,"Korea, Republic of",492.163,12
+20,pasten,6965,Israel,486.772,7
+21,RPISEC,572,United States,481.123,37
+22,bi0s,662,India,466.003,47
+23,ALLES!,18419,Germany,463.676,26
+24,ASIS,4140,"Iran, Islamic Republic of",462.184,58
+25,justCatTheFish,33893,Poland,442.768,31
+26,WreckTheLine,57908,idk,442.062,44
+27,saarsec,15337,Germany,429.675,54
+28,0ops,4419,China,423.166,18
+29,Tasteless,604,idk,419.013,17
+30,voidka,11532,Russian Federation,412.153,34
+31,RedRocket,48677,Germany,376.783,31
+32,CyKOR,369,"Korea, Republic of",375.868,18
+33,Never Stop Exploiting,13575,China,364.003,16
+34,HackingForSoju,3208,Sweden,356.212,78
+35,TRX,46516,Italy,347.875,23
+36,The Flat Network Society,87434,France,343.397,19
+37,Nu1L,19208,China,340.117,18
+38,Epic Leet Team,9061,Brazil,337.74,31
+39,FluxFingers,551,Germany,334.866,16
+40,FireShell,25526,Brazil,328.047,44
+41,0x90r00t,16700,France,320.694,48
+42,MELTDOWN,4709,idk,318.786,26
+43,InfoSecIITR,16691,India,306.934,56
+44,ISITDTU,8241,Viet Nam,303.651,56
+45,Corrupted Lights,58631,Russian Federation,300.702,18
+46,Black Bauhinia,83678,Hong Kong,290.834,25
+47,the cr0wn,48976,United Kingdom,289.5,44
+48,STT,34619,Portugal,288.792,38
+49,HackerDom,552,Russian Federation,286.844,5
+50,mhackeroni,57788,Italy,283.243,11
+51,Defenit,43817,"Korea, Republic of",281.628,84
+52,NASA Rejects,34572,United States,279.929,16
+53,binja,9083,Japan,279.712,9
+54,TSG,16088,Japan,278.886,16
+55,Google CTF,23929,idk,276.226,3
+56,5BC,42318,Israel,273.236,4
+57,flagbot,34878,Switzerland,271.381,18
+58,badfirmware,29966,idk,270.843,54
+59,noraneco,12750,Japan,270.626,94
+60,Pwnium,9062,Tunisia,266.635,40
+61,10sec,61603,"Taiwan, Republic of China",266.271,32
+62,bootplug,81341,Norway,265.6,27
+63,redpwn,59759,United States,264.887,35
+64,pwnPHOfun,80562,Viet Nam,264.059,13
+65,Made In MIM,48557,Poland,262.829,20
+66,Harekaze,29688,Japan,261.256,42
+67,fargate,63864,Russian Federation,261.126,48
+68,Order of the Overflow,56866,idk,259.78,2
+69,WE_0WN_Y0U,1964,Austria,259.309,15
+70,galhacktic trendsetters,27939,United States,255.053,12
+71,ID-10-T,50611,Spain,253.05,20
+72,Sice Squad,55508,United States,248.23,25
+73,"Hecării, Țuica și Păunii",58218,Romania,245.014,84
+74,Kernel Sanders,397,United States,243.518,61
+75,Shadow Servants,20740,Russian Federation,242.235,16
+76,SUSlo.PAS,6502,Russian Federation,242.12,15
+77,C4T BuT S4D,83435,Russian Federation,237.495,20
+78,NYUSEC,439,United States,230.787,25
+79,eee,20634,China,230.492,9
+80,LosFuzzys,8323,Austria,227.992,23
+81,CTD Elite,34465,Russian Federation,227.415,47
+82,De1ta,57691,China,226.545,17
+83,c0r3dump,65521,Hungary,224.786,42
+84,r00timentary,32783,United States,224.692,4
+85,ENOFLAG,1438,Germany,223.011,34
+86,Armia Prezesa,23184,Poland,221.897,26
+87,CodeRed,4004,"Korea, Republic of",217.964,12
+88,GoN,1288,"Korea, Republic of",215.874,25
+89,seoulplusbadass,79775,idk,214.542,3
+90,zer0pts,54599,Japan,213.13,31
+91,No Pwn Intended,32638,Italy,213.016,19
+92,FAUST,550,Germany,211.707,14
+93,BisonSquad,60210,United States,211.063,54
+94,Invaders,71588,India,209.701,60
+95,kks,32621,Russian Federation,209.346,31
+96,Dc1ph3R,69272,India,208.87,77
+97,polygl0ts,53791,Switzerland,206.703,23
+98,$wag,46544,"Korea, Republic of",204.632,36
+99,ZenHack,37768,Italy,204.14,26
+100,******,12592,China,202.029,27
+101,Lunary,44294,Russian Federation,198.406,13
+102,PwnaSonic,21256,Japan,197.858,72
+103,Whitzard,57907,China,196.939,17
+104,Maple Bacon,73723,Canada,195.756,20
+105,pwnthem0le,60467,Italy,193.739,23
+106,HATS Singapore,58574,Singapore,193.093,24
+107,NOPS,4056,France,192.136,11
+108,Nyx,39727,Turkey,191.206,21
+109,ripp3rs,50984,Spain,190.723,22
+110,warlock_rootx,75661,India,187.999,68
+111,VolgaCTF.org,27094,Russian Federation,187.04,3
+112,Sauercloud,54748,Germany,185.86,3
+113,watevr,75674,Sweden,185.243,40
+114,pwndevils,14321,United States,185.22,24
+115,The Northern Coalition,32119,Canada,181.248,22
+116,MV9rwGOf08,3170,idk,180.912,28
+117,PwnThyBytes,59199,idk,179.64,7
+118,Sudo_root,16812,Algeria,179.33,17
+119,Kappa,1607,Russian Federation,178.466,12
+120,mode13h,73961,Norway,177.479,27
+121,TeamCC,34942,Japan,175.807,50
+122,SIGFLAG,32127,Austria,175.039,14
+123,Samurai,1937,United States,173.972,7
+124,Djavaa,45327,Indonesia,172.537,40
+125,efiens,14322,Viet Nam,169.326,35
+126,ByteForc3,71631,India,168.93,89
+127,SFT0,32139,Russian Federation,168.55,14
+128,Sentry Whale,74001,France,167.667,18
+129,d4rkc0de,15154,India,164.308,22
+130,r3billions,50821,Egypt,162.408,57
+131,Flagiarism,65723,"Taiwan, Republic of China",160.902,19
+132,HgbSec,59175,Austria,160.313,16
+133,ker,66222,Russian Federation,160.045,35
+134,OSUSEC,12858,United States,159.351,13
+135,Abs0lut3Pwn4g3,72103,India,158.867,30
+136,onotch,37849,Japan,158.354,96
+137,noar,57922,"Korea, Republic of",158.043,28
+138,Nbz,71603,Israel,155.453,5
+139,pwnthanasia,81762,idk,155.032,9
+140,sf,1923,Germany,154.175,11
+141,SECCON CTF,11918,Japan,153.6,3
+142,BreakPoint,20531,Turkey,153.558,27
+143,Tower of Hanoi,300,Italy,151.994,8
+144,LionHack,57588,Sweden,150.656,23
+145,dotsu-,58740,China,150.3,39
+146,GR00T5,72736,India,147.885,45
+147,fearless,66276,Czech Republic,147.64,23
+148,Mayas,47386,Mexico,147.303,26
+149,CGC,79777,"Korea, Republic of",147.013,4
+150,kainashi,65969,idk,146.755,9
+151,NULLKrypt3rs,45761,India,144.829,42
+152,UTC,75919,United States,143.947,6
+153,TeamRocketIst,27504,Portugal,142.937,36
+154,SDSLabs,2480,India,142.714,22
+155,Lancet,20556,China,142.614,36
+156,Corrupted Pwnis,87386,Russian Federation,142.327,7
+157,0FA,72117,Switzerland,141.215,24
+158,PKTeam,14354,Spain,140.799,18
+159,DuckDuckNo,57587,Estonia,140.61,15
+160,b01lers,11464,United States,140.531,30
+161,SPbCTF,30003,Russian Federation,139.837,3
+162,AceBear,45755,Viet Nam,139.296,6
+163,CSI,11930,Indonesia,139.037,27
+164,excusemewtf,104977,Switzerland,138.292,11
+165,pearl,48542,United States,137.96,11
+166,wecaneat5hamburgersatonce,91079,"Korea, Republic of",137.5,1
+167,ASGama,24022,Indonesia,137.499,25
+168,UnKnoWnCheaTs,22048,idk,137.459,31
+169,team enu,4894,Japan,135.991,13
+170,A1ph4Z3r0,85129,United States,135.041,11
+171,SSAT,35630,"Korea, Republic of",134.941,42
+172,securisec,39971,Bangladesh,133.64,22
+173,goo,626,Slovakia,132.535,23
+174,KUDoS,71813,Japan,128.756,57
+175,PASECA,70335,Russian Federation,128.606,17
+176,null2root,35626,"Korea, Republic of",126.072,23
+177,NaruseJun,21252,Japan,125.633,6
+178,TeamPowerPrinter,70227,Denmark,124.957,30
+179,ByteBandits,13691,India,123.688,10
+180,Tresk,38328,Slovakia,123.495,16
+181,Bits For Everyone,2511,United States,121.761,23
+182,EmpireCTF,57176,United Kingdom,121.664,13
+183,JHDiscord,62434,idk,121.11,34
+184,SiBears,557,Russian Federation,119.186,19
+185,HITCON,8299,"Taiwan, Republic of China",117.94,2
+186,c2w2m2,45250,idk,117.428,19
+187,Knightsec,2500,United States,116.759,18
+188,CondomOnFire,65124,Switzerland,116.727,10
+189,Gr3yW0lf,72216,China,116.586,10
+190,Blue Hens,64660,United States,116.478,58
+191,xSTF,15341,Portugal,114.888,32
+192,YoloSw4g,27486,France,113.987,9
+193,pwnhack,34038,India,113.403,23
+194,Team_M,65578,Mongolia,113.402,38
+195,Spotless,90774,Netherlands,112.948,10
+196,arpox,85611,idk,112.846,24
+197,hackstreetboys,43377,Philippines,112.381,46
+198,Contrail,32733,Japan,112.311,32
+199,x0r19x91,34442,India,112.115,30
+200,Venom,974,idk,111.995,17
+201,TeamShakti,61083,India,111.887,25
+202,upbhack,57581,Germany,111.742,20
+203,Securimag,900,France,111.699,11
+204,pwnsuky,86356,"Korea, Republic of",111.13,14
+205,OpenBlue,75933,idk,110.988,4
+206,CyberTaskForce Zero,66229,Germany,109.19,14
+207,PEPE_BOYZ,48860,Russian Federation,108.702,26
+208,M30W,71384,idk,107.885,22
+209,reznick,13241,India,107.075,24
+210,Hackiit,70459,Spain,107.044,20
+211,Kap0k,35749,China,107.007,13
+212,BinaryBears,36281,Russian Federation,105.66,31
+213,room2042,60823,Netherlands,103.646,35
+214,uomisc1,75383,Australia,103.554,19
+215,Mashiro,19017,"Korea, Republic of",103.321,27
+216,Gh0stSh3ll,69772,Spain,102.498,47
+217,MadeInCatArmy,80616,Poland,102.422,5
+218,Xp0int,18925,China,102.295,13
+219,technic,45002,China,102.191,26
+220,Wani Hackase,70717,Japan,101.956,45
+221,SYPER,2003,Argentina,101.757,15
+222,SharLike,16172,Russian Federation,100.814,37
+223,0x1,83157,Australia,100.647,21
+224,sw1ss,40222,Switzerland,100.477,21
+225,admin',76774,"Taiwan, Republic of China",100.402,20
+226,NLNS,72112,Japan,100.13,19
+227,Azure Assassin Alliance,4070,China,99.405,31
+228,Chaitin Tech,60371,China,99.34,2
+229,KTHCTF0x1,56860,Sweden,99.269,18
+230,Cyberlandsholdet,60501,Denmark,98.895,20
+231,IndianTuesday,50935,Sweden,98.833,20
+232,daninnm,51171,Bulgaria,98.797,19
+233,Red Cadets,59617,Russian Federation,98.117,23
+234,PDKT,16919,Indonesia,97.496,10
+235,Cybur57,83418,"Taiwan, Republic of China",97.114,10
+236,ROIS,6476,China,96.502,8
+237,Cybernatural,34036,Germany,96.317,15
+238,CInsects,4051,Germany,95.76,5
+239,CYberMouflons,81678,Cyprus,94.889,22
+240,Shell Collecting Club,45676,United States,94.48,11
+241,CL34R,104996,idk,94.199,2
+242,nanocomp,59757,United Kingdom,93.896,33
+243,HITCONxBFKinesiS,84919,"Taiwan, Republic of China",93.773,1
+244,noxale,33990,Israel,93.406,21
+245,acdwas,31109,Poland,93.352,49
+246,m1z0r3,7694,Japan,92.298,32
+247,stankc,53613,Croatia,92.257,89
+248,irGeeks,22866,"Iran, Islamic Republic of",92.246,13
+249,Mazala,65326,Mongolia,91.812,35
+250,VoidHack,21137,Russian Federation,90.845,6
+251,gorogoroumaru,45324,Japan,90.471,64
+252,NULL Life,321,idk,90.349,28
+253,SealTeam1,60375,Switzerland,90.139,50
+254,zst123,40018,idk,89.694,12
+255,dummy,3404,idk,89.287,25
+256,WeAreScientists,2010,Austria,89.262,13
+257,Aperi'Kube,49291,France,89.251,8
+258,Reverselab,913,"Korea, Republic of",89.24,4
+259,Roses,79776,idk,89.185,1
+260,magnum,13274,idk,88.419,9
+261,PetCatGetFlag,58669,Germany,87.801,11
+262,Al Capwn,68749,India,87.785,8
+263,Batman's Kitchen,3135,United States,87.484,20
+264,Ne0Lux-C1Ph3r,7008,France,87.155,75
+265,xor'd_by_the_C,84588,United States,86.166,9
+266,Säkerhetskontoret,76771,idk,86.165,4
+267,"Eat, Sleep, Pwn, Repeat",15712,Germany,86.045,6
+268,CSAW CTF Organizers,2488,United States,86.0,1
+269,zero cost abstractions,87425,idk,85.878,3
+270,ri5e,48915,idk,85.767,56
+271,The Additional Payphones,39437,United States,85.64,23
+272,4x2,68814,Russian Federation,85.424,14
+273,Contagion,152691,United States,84.997,12
+274,WPICSC,53799,United States,84.72,9
+275,y0d31,45220,idk,84.581,36
+276,BITSkrieg,22310,India,84.387,18
+277,HITCON⚔BFKinesiS,80625,idk,84.37,1
+278,CCSIR.org,9831,Romania,84.28,2
+279,Phish'n'Chips,31831,United Kingdom,84.051,21
+280,M.I.S.T.,6796,Germany,83.993,12
+281,X1cT34m,14482,China,83.359,16
+282,noTeamName,25785,United States,82.188,20
+283,Flux Repeat,88276,Germany,82.013,2
+284,ViaRézo,73594,France,81.926,14
+285,kiona,74926,Japan,81.91,33
+286,KaisHack,22025,"Korea, Republic of",81.795,4
+287,./Vespiary,80092,Japan,81.738,10
+288,AssuredSecNinjas,11565,idk,81.64,1
+289,#71,71783,idk,81.07,1
+290,Zemows Industries,75562,idk,80.918,16
+291,NETON,48607,Spain,80.766,13
+292,InSecurity,11869,France,80.285,2
+293,insecure,21761,Japan,79.855,9
+294,Wunderleth,53877,Russian Federation,79.106,50
+295,dodododo,6434,Japan,79.028,11
+296,tkmk,51197,China,78.369,28
+297,Zeus WPI,83691,Belgium,78.32,16
+298,Trend Micro,16963,Japan,78.0,2
+299,PPP1_,87677,idk,77.682,2
+300,SIGPwny,27763,United States,77.673,7
+301,Salted Crhackers,72478,Italy,77.387,10
+302,C4M31,48202,idk,77.335,11
+303,Blue-Whale,5140,China,77.255,16
+304,CerberusTeam,73982,Israel,77.215,27
+305,The_Rox,72692,Morocco,77.159,25
+306,BawlSec,70972,Netherlands,77.008,27
+307,OverTheWireCTF,81052,idk,76.696,7
+308,BalsiFox,90282,idk,76.332,4
+309,Lorem Checksum,53545,Turkey,76.161,10
+310,one-liner.pl,89002,Russian Federation,75.788,4
+311,cybears,21991,idk,75.782,2
+312,emmmm,55193,China,75.747,4
+313,GozolSuperRichMen,72173,"Korea, Republic of",75.443,11
+314,Tr0j4nH0r53,73673,idk,75.442,3
+315,Ulisse,71738,Italy,75.08,15
+316,beerpwn,53094,Italy,74.756,60
+317,JBZ,31388,Italy,74.745,15
+318,PororoJoa,72997,"Korea, Republic of",74.504,32
+319,Beers4Flags,28324,France,74.461,17
+320,localghost,27953,Switzerland,73.985,11
+321,Fword,72251,Tunisia,73.814,32
+322,Iam9r00t,39678,Indonesia,73.552,47
+323,Deadlock Team,70619,Brazil,73.422,45
+324,NIS,7893,Japan,73.006,74
+325,timHehe,75856,Indonesia,72.878,29
+326,superflip,2600,Japan,72.788,7
+327,MTA256,65128,Morocco,72.539,17
+328,T35H,45998,France,72.491,40
+329,Czech Cyber Team,65727,Czech Republic,72.34,10
+330,AsiaEasterns,91066,Japan,71.741,2
+331,doubV,69328,idk,71.692,22
+332,CodeRed+GYG,90280,idk,71.668,1
+333,%00Byte,52457,Jordan,71.23,17
+334,KaisHackGoN,90281,idk,71.055,1
+335,BugD0sDk,54765,India,70.715,24
+336,IamIn,51035,Hungary,70.554,13
+337,c00kies@venice,1752,Italy,70.275,4
+338,RATF{Rage Against The Flag},26657,Brazil,70.254,51
+339,D.G. Red Was Him?,86353,idk,70.198,1
+340,天枢,14393,China,69.533,7
+341,Golems_treat,78462,"Taiwan, Republic of China",68.966,18
+342,0xf4b1,85041,Germany,68.717,28
+343,RISS,68942,United Kingdom,68.464,12
+344,GYG,33362,"Korea, Republic of",68.433,6
+345,infuzion,61633,United States,68.297,19
+346,ddd428,70482,China,68.227,62
+347,BTeam,16789,Viet Nam,68.104,49
+348,Exploit Studio,72155,Turkey,68.002,11
+349,Pwntera,49301,France,67.97,13
+350,HCS,70159,Indonesia,67.913,25
+351,reasonably_suspicious_activity,62190,India,67.871,16
+352,polga,62504,idk,67.806,13
+353,justdoit,35753,Austria,67.597,9
+354,TahSec,72775,Australia,67.502,28
+355,BambooFox,9871,"Taiwan, Republic of China",67.459,19
+356,swt02026,31032,idk,67.365,52
+357,dex,44437,Germany,67.247,27
+358,4katsuk1,63383,Mongolia,67.168,61
+359,Team Mongolia,200619,Mongolia,67.082,42
+360,Nightmare Mechasheep,48863,United States,67.045,5
+361,defragmented.brains,325,idk,66.994,9
+362,sebastianpc,59467,Denmark,66.886,30
+363,BIZone,32190,Russian Federation,66.66,1
+364,TAMUctf,37721,United States,66.56,1
+365,MeePwn,3340,Viet Nam,66.353,3
+366,team_cryptis,74029,idk,66.112,12
+367,DeadSec,19339,Jordan,65.953,12
+368,pow270,47798,Tunisia,65.87,5
+369,0x00SUDO,50998,India,65.665,18
+370,L Distribution,45894,United States,65.613,14
+371,AFiniteNumberOfMonkeys,3139,United Kingdom,65.564,12
+372,PLUS,1679,"Korea, Republic of",65.088,12
+373,team bagel,63430,Israel,65.079,51
+374,Scr!ptK!dd!es,73742,India,64.846,26
+375,kettusec,72275,Finland,64.543,21
+376,PFS,86357,United States,64.388,12
+377,Tinfoil Hats,31301,Austria,64.046,23
+378,CCUG,45168,Indonesia,63.89,20
+379,epist,51642,idk,63.592,15
+380,spookies,57437,Japan,63.414,12
+381,WhatTheShell?,75717,Antarctica,63.158,19
+382,KuK Hofhackerei,59774,Austria,63.149,3
+383,gf128,89081,idk,62.702,6
+384,HackademINT,30462,France,62.246,22
+385,Pelarian CP ehe,76356,Indonesia,62.187,37
+386,flexerilla,69249,Germany,62.102,39
+387,PwsecTeam,70835,India,62.04,20
+388,p4-india,105225,idk,62.004,1
+389,UiO-CTF,39664,Norway,61.912,13
+390,noobintheshell,70917,Switzerland,61.729,8
+391,Lights Out,7931,Russian Federation,61.706,3
+392,a_team_has_no_n4me,64109,idk,61.66,14
+393,ord('v'),81550,"Taiwan, Republic of China",61.419,16
+394,3Idiots,66116,idk,60.953,40
+395,greyhatgt,38564,United States,60.766,3
+396,PentaHex,39346,United States,60.616,22
+397,Brahmastra,72299,Indonesia,60.576,24
+398,GranolaSport,81113,Poland,60.466,18
+399,h0ax,27115,India,60.411,23
+400,L,11724,China,60.252,7
+401,KId0fBK,60440,Viet Nam,60.0,11
+402,BKsec,53223,Viet Nam,59.22,7
+403,Eindbazen,322,Netherlands,59.048,2
+404,fr3nzy,86670,France,58.965,17
+405,bruh,37352,United States,58.881,20
+406,Nupakachi,80571,Viet Nam,58.814,24
+407,16LAB,60624,idk,58.76,1
+408,mhacker0wny,86055,idk,58.601,1
+409,isss,69010,United States,58.585,2
+410,break_the_code,88197,India,58.487,7
+411,quriosity,72708,idk,58.348,62
+412,kasia-tutej,35710,Poland,58.208,35
+413,VND0ng,69271,Viet Nam,58.161,30
+414,SEC-T,44396,Sweden,58.12,1
+415,UniPisa,87876,Italy,57.905,5
+416,TeamBaguette,59243,idk,57.786,2
+417,bolgia4,36002,Canada,57.742,36
+418,cyb3rTUN,42865,Tunisia,57.622,41
+419,greunion,29976,Greece,57.619,4
+420,One Hundo Percent Not FBI,57840,United States,57.58,8
+421,MATE,84930,Singapore,57.264,17
+422,Kartoffelpufferüberlauf,54677,idk,57.26,1
+423,D.I.E,35742,idk,57.162,33
+424,n0n3,25474,China,57.152,22
+425,p4-insomnia,105226,idk,57.123,1
+426,Keen Minds,48972,idk,56.642,2
+427,LaDelikataj,59612,France,56.546,11
+428,anonsurf,72411,idk,56.426,42
+429,BitWornHats,24701,Poland,56.312,17
+430,--==__Har[u]6aToP__==--,76449,idk,56.125,2
+431,KoreanGang,38749,"Korea, Republic of",56.047,5
+432,Cyber Security Trunojoyo,82607,Indonesia,56.011,41
+433,Dashu,105006,United States,55.997,12
+434,husky.png,69349,idk,55.906,14
+435,wasd,64852,Viet Nam,55.786,32
+436,pwnies,1816,Denmark,55.709,8
+437,comet,85478,United States,55.509,7
+438,Pwninsula,78374,United States,55.392,5
+439,Aleph Infinite,70406,idk,55.368,6
+440,Hayyim_Sec,72172,idk,55.357,3
+441,userenc,42368,Cyprus,55.357,3
+442,BabyPhD,11767,Viet Nam,55.259,4
+443,Alpha Union,60384,India,55.17,34
+444,babybinja,86354,idk,54.844,1
+445,P@Ge2mE,44085,Thailand,54.62,47
+446,Vox Dei,89671,Argentina,54.518,9
+447,grimpan,38063,idk,54.51,4
+448,ELFDump,48844,Poland,54.504,8
+449,FrenchRoomba,105849,New Zealand,54.486,5
+450,Pwnacea,50853,Tunisia,54.458,3
+451,ascii overflow,15360,United States,54.365,3
+452,Ag3nts,62078,France,54.243,3
+453,glua.team,27944,idk,54.193,5
+454,Jolly Roger Insecurity,25932,United States,54.034,16
+455,c00c00r00c00,70648,Japan,53.994,17
+456,Lights of Pineapples,73825,Australia,53.74,13
+457,blue-lotus,1941,China,53.727,2
+458,SWV_L,81089,United States,53.72,43
+459,vanhelsing,10994,idk,53.493,12
+460,Ungrateful Thread,83330,idk,53.46,1
+461,Tsami,75334,Tunisia,52.974,24
+462,hellman,16095,Russian Federation,52.673,3
+463,CNSS,16728,idk,52.672,10
+464,hackpack,25905,United States,52.487,12
+465,WebSpiders,71012,Russian Federation,52.293,19
+466,shellrippers,47123,Canada,52.213,12
+467,Heaven_Hellpline,44996,idk,52.114,28
+468,33e3393c59bed4a77cb2d2ec2cd80e13,49087,Italy,52.057,16
+469,NekochanNano!,72201,Japan,51.959,16
+470,KonungarnirFróðleikar,75202,Antarctica,51.92,11
+471,EVA,24109,Russian Federation,51.888,18
+472,jmp0xc0ffee,70263,Romania,51.342,9
+473,ivani,83337,Croatia,51.174,12
+474,SGW,68557,Japan,51.086,23
+475,born2scan,73973,Italy,50.897,17
+476,SU,29641,China,50.818,19
+477,cyberwehr,35295,Austria,50.794,7
+478,Petir Cyber Security,64958,Indonesia,50.736,29
+479,Nullcon,2498,India,50.62,1
+480,Init 5,72488,France,50.556,12
+481,TenDollar,17057,"Korea, Republic of",50.546,10
+482,Out Of Energy,72088,Poland,50.461,10
+483,ARGOS,3650,"Korea, Republic of",50.374,4
+484,0x435446,76528,Romania,50.063,26
+485,Layer7 CTF,87286,"Korea, Republic of",50.0,1
+486,AyeBeer,85003,idk,50.0,1
+487,BSidesSF,54737,United States,50.0,1
+488,BurpFiction,59699,Ukraine,49.997,7
+489,TuzHack,70199,France,49.893,25
+490,MhackGyver,30616,France,49.796,50
+491,C521,22317,China,49.699,23
+492,HCTF,27880,Germany,49.66,1
+493,$wag&hayyim,86355,idk,49.651,1
+494,U+1F914,83085,United States,49.588,1
+495,Omniscients,64961,idk,49.326,18
+496,guatitasec,44929,Ecuador,49.282,16
+497,nu117r4c3,74900,idk,49.267,4
+498,KipodAfterFree,89050,Israel,49.22,1
+499,Security First,1708,"Korea, Republic of",49.204,28
+500,wabisabi,25823,Japan,49.179,10
+501,syssec,15399,Germany,49.166,5
+502,squarectf,63648,United States,49.12,1
+503,Invulnerable,17336,Russian Federation,49.083,16
+504,Judah,71820,idk,48.944,11
+505,derWiderstand,78164,Israel,48.717,13
+506,score_gazer,85624,Japan,48.572,22
+507,g+,81701,idk,48.56,1
+508,Facebook CTF,75542,United States,48.56,1
+509,runn3r5,82660,United States,48.548,23
+510,GreHax0r,105346,idk,48.5,1
+511,int3pids,288,Spain,48.498,2
+512,Smyghalloumi,63658,Sweden,48.42,6
+513,UCCU,9971,"Taiwan, Republic of China",48.403,13
+514,simon,44760,Algeria,48.385,12
+515,b0tch_sec,22863,United States,48.302,13
+516,DTUHAX,13719,Denmark,48.243,10
+517,Bulba Hackers,105724,Belarus,48.22,2
+518,Rapace Diabolique,44336,France,48.149,12
+519,HackersWhoBlaze,17715,Viet Nam,48.14,1
+520,Yokosuka Hackers,81116,idk,47.74,1
+521,Nave1337,68843,United States,47.731,18
+522,Pandemic,26291,Spain,47.533,10
+523,ColdRoot,73530,Canada,47.466,5
+524,A MEOW,66590,United States,47.446,6
+525,jackdaw,13597,India,47.418,26
+526,LogicalGeezers,58125,United Kingdom,47.387,21
+527,Horde,50954,Belarus,47.292,53
+528,slenderestman lovers,82666,idk,47.08,1
+529,HSN CS Club,59620,United States,47.08,1
+530,Capgemini Aces Of Spades,87450,France,46.926,5
+531,AOR,58460,Indonesia,46.913,11
+532,Delusions of Grandeur,446,United States,46.891,10
+533,oylo,89783,"Virgin Islands, U.S.",46.882,1
+534,NuttyShell,72265,Hong Kong,46.772,16
+535,Imperium,69260,Algeria,46.745,15
+536,experimental_collaboration,105228,idk,46.716,1
+537,Definitely_Not_id01_Soloing,73583,United States,46.64,1
+538,Age Of Null,28326,United States,46.64,1
+539,MITRE Cyber Academy,13562,United States,46.64,1
+540,kn0ck,36087,China,46.552,8
+541,makelarides,89786,Greece,46.134,12
+542,OverTheWire,69284,idk,46.12,1
+543,No Man's Root,38264,Poland,46.112,11
+544,TrueRadar,90018,idk,46.029,7
+545,dd__,80038,United Kingdom,45.716,6
+546,GASoline Beta,87246,idk,45.635,2
+547,Securinets,5084,Tunisia,45.44,2
+548,ångstromCTF Organizers,15734,United States,45.2,1
+549,xdjibi,43477,idk,45.199,15
+550,3xploit3rs,81831,India,45.18,14
+551,Antichat,826,Russian Federation,45.171,5
+552,CTF.SG,77768,Singapore,45.083,9
+553,TuX,29404,Indonesia,44.947,16
+554,z3r0_n1ght,59236,Viet Nam,44.937,19
+555,cr0mize,70889,Czech Republic,44.906,17
+556,Jinotega,83333,idk,44.905,6
+557,Saint Technics,68873,Russian Federation,44.714,4
+558,[9],69542,idk,44.694,4
+559,MixTim,64967,Switzerland,44.658,12
+560,KLELK,64824,France,44.654,15
+561,Hackatsuki,65393,France,44.623,14
+562,jinmo123,22056,"Korea, Republic of",44.619,9
+563,noname,1071,idk,44.549,22
+564,UltraMegaChicken,61507,United States,44.454,9
+565,knock-knock,53622,India,44.382,11
+566,AdnanSlef,59499,idk,44.324,15
+567,318br,24500,Brazil,44.317,6
+568,Shallow-Fried Soy Winter Vegetables,73624,United States,44.315,14
+569,TimeKeeper,48610,China,44.31,10
+570,errant_cattus,90781,Japan,44.219,15
+571,ARG Solving Station,45472,idk,44.207,7
+572,ahoy,88316,idk,44.0,1
+573,Bigos,73948,Poland,43.926,35
+574,K17,17058,Australia,43.891,8
+575,Lurkrul,75908,China,43.792,27
+576,0pentoall,27218,idk,43.789,4
+577,Goats,4173,Canada,43.76,1
+578,NorthSec Organizers,2492,Canada,43.76,1
+579,SharksWithLazersPEWPEW,72196,Germany,43.711,10
+580,IrisCS,72776,United States,43.549,15
+581,SKR,67702,Malaysia,43.254,20
+582,swag,31932,"Korea, Republic of",43.253,7
+583,Ingenting,88318,idk,43.125,4
+584,Singularity,1425,Russian Federation,43.07,17
+585,No Rain No Flowers,79778,idk,43.018,1
+586,Phantom troupe,84994,Philippines,42.955,17
+587,C0Br@,70205,Romania,42.805,39
+588,Useless_flag_hunters,65243,France,42.734,2
+589,kasiatutej,45044,Poland,42.72,7
+590,TrashPandas,57241,United States,42.433,9
+591,Adeptus Malum,75127,idk,42.348,5
+592,p4wnWAT,50673,Germany,42.292,13
+593,t00lpns,70197,Russian Federation,42.281,25
+594,pastabase64,77078,Argentina,42.167,23
+595,hanto,20541,United States,42.022,15
+596,number71,83331,idk,41.987,1
+597,NBL,59103,idk,41.915,8
+598,Samsung R&D PL,40193,Poland,41.909,3
+599,rawsec,27232,France,41.902,31
+600,HTCPCP://,46934,United States,41.752,6
+601,M4551V3,69304,Netherlands,41.744,9
+602,ByamB4,112018,Mongolia,41.697,23
+603,scryptos,10974,Japan,41.687,11
+604,UIT-Mak3.1t.Happ3nd,87879,idk,41.625,7
+605,Nol3ptr,2524,United States,41.5,12
+606,<U2>,63261,"Taiwan, Republic of China",41.421,4
+607,zipperpinch,81270,idk,41.42,1
+609,Pragyan,33867,India,41.38,1
+610,killswitch,49838,Japan,41.366,31
+611,Blackfoxsorg,76357,Saudi Arabia,41.354,4
+612,vr3m3nny3_7rudn0571,78165,Russian Federation,41.335,7
+613,UIT-Ins3cl4b,60500,Viet Nam,41.139,10
+614,cgu,51122,"Iran, Islamic Republic of",41.122,5
+615,ShroomZ,13560,Poland,41.012,9
+616,House of Suicide,89046,Russian Federation,40.974,8
+617,ntcZajebisty,70634,idk,40.912,4
+618,2guys1team,81752,Estonia,40.818,2
+619,blueship,51475,Japan,40.809,56
+620,CC19_UniPi,77088,Italy,40.763,14
+621,ssh@uzl,61483,Germany,40.757,4
+622,nitrow,75575,Switzerland,40.636,20
+623,Recursion Fairies,66454,Italy,40.634,6
+624,"from Sousse, with love",107171,Tunisia,40.612,5
+625,CSUI,70551,Indonesia,40.495,11
+626,AllByMySelf,37180,United Kingdom,40.489,28
+627,frickari,72198,Slovakia,40.443,16
+628,UIT-Ghost.ist,87683,idk,40.309,7
+629,Shadow Cats,4710,United States,40.274,9
+630,Cr3sc3ndo,68865,"Korea, Republic of",40.205,26
+631,Lilac,15163,China,40.015,13
+632,AdrenSys,48982,Ukraine,39.986,8
+633,CosmikFlagHunters,78793,France,39.86,20
+634,th3jackers,10498,Algeria,39.846,7
+635,Root Security,39569,Poland,39.782,7
+636,cRUcible,18421,Iceland,39.776,11
+637,hack@unhcfreg,34936,United States,39.723,12
+638,K0nFu53D C@,104581,Viet Nam,39.678,7
+639,M01N,65311,China,39.653,7
+640,hhroOne,76341,"Korea, Republic of",39.591,11
+641,NeverLAN,32118,United States,39.46,1
+642,/(spin)*s/,105853,United States,39.4,7
+643,Srdnlen,83421,Italy,39.342,3
+644,RevEng,47221,United Kingdom,39.304,11
+645,CHC,24511,United States,39.292,10
+646,KJC+f0f+Spotless+SF+mhackeroni,109191,idk,39.19,1
+647,Holy Empire,74088,Russian Federation,39.152,18
+648,MSTUCA,22331,Russian Federation,39.099,13
+649,BogoMips,47202,Colombia,39.092,33
+650,pepC,90283,idk,38.902,1
+651,mikoan,75569,Japan,38.9,22
+652,frerrett,66213,Tunisia,38.824,11
+653,Sagami,72305,idk,38.781,40
+654,brucel33t,18435,Canada,38.733,12
+655,HolyCTF,62276,Viet Nam,38.678,5
+656,N1ght1ngale5,75259,Russian Federation,38.448,5
+657,White Maria,90585,Singapore,38.305,9
+658,ahengers,80112,idk,38.288,32
+659,Axians CTF,72491,France,38.212,6
+660,CatchFM,32132,Russian Federation,38.191,16
+661,RocketTeam,68916,Russian Federation,38.173,27
+662,F(){B|H&};B,54790,idk,38.095,7
+663,tuna,53880,Czech Republic,38.05,7
+664,TopWing,69238,United States,37.971,40
+665,H@k1mLukh@,48087,India,37.962,12
+666,Inshall'hack,44256,France,37.842,8
+667,2ndTeam,59239,Viet Nam,37.778,30
+668,Team Cryptis,64797,idk,37.771,6
+669,AquafallDefenseSquad,23794,idk,37.708,8
+670,SecurityFactorial,57903,"Korea, Republic of",37.525,15
+671,csiescom,57933,Mexico,37.521,19
+672,TeaM-N,69847,Mongolia,37.375,16
+673,0n3m4ns4rmy,57200,Netherlands,37.183,5
+674,Alfa Canis Maioris,71613,Hungary,37.158,8
+675,Mars Explorer,85450,United States,37.101,14
+676,CloisterF,61550,Denmark,37.013,9
+677,dohki,61109,idk,36.987,10
+678,affinityCTForgs,84473,Poland,36.96,2
+679,YoungPwnawans,39964,Croatia,36.842,11
+680,Cr0w,89037,idk,36.806,5
+681,SAS Hackers,51836,idk,36.798,8
+682,Colorado = Security,73595,United States,36.791,6
+683,(ﾉ^ヮ^)ﾉ*:・ﾟ✧,106881,idk,36.753,7
+684,Order of the Grey Fang,104946,India,36.747,9
+685,Oneirologists,72148,Australia,36.659,25
+686,qw3709,54087,idk,36.641,31
+687,ringo,50020,idk,36.605,3
+688,outOfCheese,77520,Russian Federation,36.597,45
+689,ayyy,25836,idk,36.592,13
+690,null123,44465,Viet Nam,36.51,21
+691,UniPWN,73508,United States,36.465,5
+692,KogCoder,49881,Japan,36.455,19
+693,Bleubytes,60707,France,36.408,13
+694,speles,71049,Ukraine,36.234,7
+695,Passfinding,76252,idk,36.126,8
+696,E-Toolz,61508,Russian Federation,36.092,11
+697,SIS,74035,idk,35.999,2
+698,Forkbenders,85866,Ukraine,35.827,23
+699,F4CK,49764,idk,35.727,7
+700,Vidar-Team,8211,China,35.607,5
+701,ntropy,30563,United States,35.464,14
+702,duks,22358,Switzerland,35.446,6
+703,Hayyim & $wag,62496,idk,35.399,1
+704,Shiwoya,76351,Singapore,35.395,7
+705,NaijaSecForce,27562,Nigeria,35.387,18
+706,KITCTF,7221,Germany,35.309,9
+707,ＶＡＰＯＲＳＥＣ,45771,United States,35.246,7
+708,T0X1C V4P0R,39885,Singapore,35.242,11
+709,kjb,66462,idk,35.24,26
+710,B@ngsiri,24749,"Korea, Republic of",35.198,8
+711,MiloTruck,80166,Singapore,35.11,18
+712,b1c,36439,United States,35.081,3
+713,seeker,14157,Indonesia,35.055,4
+714,S²,20553,idk,35.054,2
+715,Ver,62010,idk,35.02,7
+716,TWN,19267,idk,34.989,13
+717,joker,9258,idk,34.972,4
+718,Olympia,75862,Switzerland,34.937,8
+719,hack.ERS,4141,Netherlands,34.851,2
+720,Bl4sph3my,65606,Portugal,34.72,21
+721,SPRAVEDLIVAЯ RUSH A,76463,Russian Federation,34.686,12
+722,just_playing,70919,idk,34.62,12
+723,posix,72944,"Korea, Republic of",34.596,28
+724,Pystyy vetää,72156,Finland,34.561,11
+725,CatPawn,49795,Hong Kong,34.532,14
+726,PukPuk,48996,idk,34.488,3
+727,Great_Octopus,36237,idk,34.459,4
+728,Crimson Rose,105398,"Korea, Republic of",34.45,2
+729,REJLWQ,74039,idk,34.428,10
+730,Solo [Nepal],80857,Nepal,34.398,24
+731,Practice Safe Hex,72763,idk,34.382,17
+732,TheScientists,66898,idk,34.357,3
+733,struct.unpack,62524,idk,34.342,12
+734,lAvengersl,65301,Mongolia,34.329,12
+735,D33p5h4d0w,81825,India,34.309,11
+736,n0_pwn1c,71589,Azerbaijan,34.302,44
+737,$ℂ$,50859,Russian Federation,34.27,5
+738,exzettabyte,61015,Indonesia,34.252,30
+739,helloWorld,1052,idk,34.25,12
+740,Th3_C4valiers,48010,Algeria,34.151,14
+741,Bender,50670,Ukraine,34.146,5
+742,seoul electric decomposer,69490,"Korea, Republic of",34.048,2
+743,galhacktictrendsetters,29927,idk,34.04,1
+744,NoPwnNoGain,72046,Kenya,33.902,14
+745,taurus,17296,Japan,33.832,19
+746,Chinchila,86434,Brazil,33.788,13
+747,ROPperoni,82596,Italy,33.737,11
+748,Spikers,85454,United Kingdom,33.581,26
+749,Debugmen,30100,United States,33.568,8
+750,TUWTF,83341,Austria,33.557,6
+751,Pham Solo 2,65642,Poland,33.513,8
+752,VN_MSEC,74037,Viet Nam,33.398,14
+753,/dev/base,44201,Germany,33.392,8
+754,Hexion,77992,Israel,33.354,18
+755,x0rc3r3rs,66247,India,33.344,18
+756,אלוף,87541,Indonesia,33.178,5
+757,DARK↯STARS,73242,India,33.168,19
+758,<!n1t.s3q>,84989,United States,33.088,4
+759,eatman,71623,United States,33.082,4
+760,0xNN,69443,idk,33.045,28
+761,3amar_404,54621,Tunisia,33.015,19
+762,NSCNA,72079,"Taiwan, Republic of China",32.966,5
+763,WAFU,35287,France,32.96,8
+764,strt0k,77703,idk,32.877,3
+765,backspace,3277,Germany,32.851,6
+766,KorNewbie,79515,"Korea, Republic of",32.801,16
+767,SCS Hacking Team,75262,Switzerland,32.78,12
+768,B3bieSec,19195,Viet Nam,32.759,23
+769,RainyDusk,62227,idk,32.752,15
+770,hackw4p0n3y,45647,France,32.721,2
+771,ButterOverflow,74031,United States,32.687,12
+772,IIT(BHU)CyberSec,22546,India,32.66,1
+773,WFTC,72059,Ireland,32.627,8
+774,peanuts,3598,France,32.556,10
+775,sploit00n,68052,idk,32.418,4
+776,abosaif,70954,Saudi Arabia,32.326,8
+777,Flag_On_Board,87678,Algeria,32.313,6
+778,sababa,72032,Cyprus,32.306,14
+779,k0kos,62105,idk,32.265,25
+780,Auburn EHC,74024,United States,32.262,2
+781,Life,8625,idk,32.2,9
+782,jt00,59529,idk,32.196,11
+783,Whiterabbits,63701,idk,32.17,18
+784,RSAturday,64987,Viet Nam,32.121,9
+785,webcult,79501,United States,32.063,9
+786,K1_W4L0,78430,Morocco,31.978,21
+787,dry roasted peanuts,79510,idk,31.934,3
+788,Team8,11807,Canada,31.915,21
+789,Shigatsu,52805,Russian Federation,31.913,15
+790,ECSC_mongo,87188,idk,31.7,1
+791,HITCON GIRLS,19419,idk,31.669,9
+792,falconctf,86370,Japan,31.628,10
+793,hacksport,77633,Germany,31.57,7
+794,g!r1_p0w3r,77637,idk,31.44,1
+795,cbm-hackers,62372,India,31.44,1
+796,TheDefaced,43380,United States,31.417,3
+797,Hubert Hackin',19040,Canada,31.39,1
+798,CH1ll,38101,Switzerland,31.314,4
+799,team_7even,105431,Algeria,31.223,7
+800,WCSC,315,United States,31.217,12
+801,Gleitkommafreunde Bonn,63804,Germany,31.213,3
+802,Redbud,20555,China,31.185,7
+803,inSmartCard,65593,United States,31.177,10
+804,slipper,4399,China,31.174,2
+805,One-Team,44993,China,31.157,14
+806,NASA_Rejects2,38236,idk,31.109,2
+807,andser612345,68126,idk,31.064,19
+808,dcua-school,32602,Ukraine,31.039,13
+809,Ten*48,20402,idk,30.993,5
+810,iSec,16148,idk,30.873,3
+811,ITA_Sec,59193,Brazil,30.856,11
+812,HSN CTF '22,88320,United States,30.816,6
+813,E42494,39453,idk,30.791,9
+814,Cryptonite,62713,India,30.736,20
+815,EVERY0NE,28545,idk,30.667,1
+816,FeDEX,48887,idk,30.661,8
+817,Re1n3r!,76447,Germany,30.651,4
+818,dUNDER,65854,idk,30.599,5
+819,SSG,10817,"Korea, Republic of",30.535,6
+820,0,12923,idk,30.512,4
+821,$TLDR$,80626,Zimbabwe,30.485,1
+822,JustNotBob,62698,United States,30.469,19
+823,baton,70931,idk,30.455,20
+824,W&M,54666,China,30.392,7
+825,DEBUGmafia,74022,idk,30.383,2
+826,N30Z30N,110841,Japan,30.379,29
+827,AmTrain,86376,China,30.343,11
+828,splitline,33003,"Taiwan, Republic of China",30.328,18
+829,Itemize,11404,Norway,30.178,5
+830,ids-TeamCC,49836,Japan,30.146,3
+831,AppliedCyber,70318,idk,30.136,3
+832,ihscy,78601,United States,30.136,8
+833,PWN to 0xE4,121191,United Kingdom,30.124,10
+834,noname_hackers,60239,idk,30.11,3
+835,Save the river,73557,Belgium,30.096,4
+836,mushd00m,4151,France,30.037,3
+837,Segfaulters,69680,idk,30.02,2
+838,Ternary Bits,125992,"Iran, Islamic Republic of",29.964,15
+839,ns4style,7705,idk,29.951,18
+840,Securiy,83332,idk,29.931,1
+841,escollapse,70832,idk,29.911,9
+842,529,53309,idk,29.883,15
+843,220,13083,idk,29.873,6
+844,GH05T5,85439,Morocco,29.865,16
+845,SEU,75044,Saudi Arabia,29.842,9
+846,Hus@r1@,81193,Poland,29.809,32
+847,t0mcr00se,87108,idk,29.806,12
+848,v0rt3x,3906,Russian Federation,29.776,6
+849,kerouac,45184,Poland,29.773,10
+850,r00tstici,83535,Italy,29.744,13
+851,ThePacemakers,89027,Mongolia,29.692,7
+852,Copperhead riot crew,78196,idk,29.606,3
+853,maroonpwn,106380,idk,29.56,1
+854,yharima,21212,Japan,29.507,5
+855,lost+found,31364,Turkey,29.483,19
+856,kkkkk,71681,idk,29.446,2
+857,Beta_securiteam,27441,Israel,29.272,16
+858,0x01,3964,idk,29.206,8
+859,vitctf,83677,India,29.197,11
+860,xiaolizhi,75278,idk,29.19,4
+861,BullSoc,80532,Italy,29.176,12
+862,CAT-Security,1298,"Korea, Republic of",29.156,5
+863,CTF_newbie,87277,Viet Nam,29.131,7
+864,lolcads,45691,Germany,29.091,4
+865,Aqua,48063,idk,29.07,37
+866,UpperSec,65641,Austria,29.067,2
+867,Aquin,69172,Russian Federation,29.049,9
+868,void*,75139,Russian Federation,29.041,5
+869,Spacesheeps,49234,idk,29.008,9
+870,USCGACyber,72857,United States,28.97,7
+871,someday,29731,idk,28.942,8
+872,blockchain878787,54770,"Taiwan, Republic of China",28.915,18
+873,NEX,38574,China,28.912,13
+874,RivierHack,58834,idk,28.884,6
+875,The Purple Dolphins,78375,United States,28.883,12
+876,Lev9L,59614,Germany,28.834,5
+877,MACCABIM,53805,Israel,28.808,1
+878,GautamGreat,77640,idk,28.805,19
+879,fob,65413,idk,28.741,6
+880,kimiyuki,21665,Japan,28.716,2
+881,lightly salted peanuts,120429,United States,28.685,5
+882,karmasutra,23529,Italy,28.682,30
+883,imssm99,27800,"Korea, Republic of",28.58,3
+884,Harvey Norman Inc,73821,idk,28.569,12
+885,__T3TR4H3DR0N__,87260,India,28.562,12
+886,Unknown,1362,idk,28.559,9
+887,Br0nXM3n,63599,France,28.55,9
+888,redsh33p,78126,idk,28.427,1
+889,R19,81545,Japan,28.361,2
+890,wund3rb0yz,81789,Russian Federation,28.238,2
+891,cyberkastike,5354,United States,28.231,4
+892,PWR White Hats,74109,idk,28.173,2
+893,KLHT,32191,Russian Federation,28.152,2
+894,Ludde and the Special Command Movement,88207,idk,28.145,1
+895,testhuman,76231,idk,28.115,1
+896,Ripping,54787,idk,28.114,7
+897,Haxx4Jobz,62480,Australia,28.111,7
+898,n1ce,33754,idk,28.104,1
+899,5Minutes,48921,idk,28.081,13
+900,SITIS_CTF_Team,70168,Russian Federation,28.017,6
+901,vosjes,73818,idk,27.964,1
+902,RootHunter,78221,Viet Nam,27.866,18
+903,inv4sion,46563,India,27.829,7
+904,0xDebug,72832,idk,27.799,4
+905,hackability,7085,"Korea, Republic of",27.78,6
+906,girav,32126,idk,27.762,2
+907,Top0x9,72122,Israel,27.756,3
+908,AIR3,21313,idk,27.741,3
+909,Lost in Bytes,89788,idk,27.739,7
+910,--==NOVOSIBIRSKIY_6AT9==--,76543,Russian Federation,27.735,4
+911,P4ki5t4nH4x0rz,70164,Pakistan,27.694,16
+912,Cyber Grizzlies,89066,United States,27.661,13
+913,shablul,80046,Israel,27.619,4
+914,invincibl3,73434,idk,27.613,6
+915,UndefinedBehavior,14364,Switzerland,27.419,3
+916,Sparrows,87024,Poland,27.418,2
+917,Charo,11991,Japan,27.4,5
+918,T3K4,65112,idk,27.385,23
+919,Gyul,63225,"Korea, Republic of",27.377,26
+920,0xBlueSky,60817,France,27.265,14
+921,0bitadders,76236,United States,27.242,2
+922,SUS_2019,83667,China,27.201,8
+923,sqrtrev,76783,"Korea, Republic of",27.121,8
+924,NullPointerException,8116,Poland,27.115,2
+925,HackInProvence,35273,France,27.101,5
+926,yoshikingdom,71893,Japan,27.067,8
+927,BloodHounds,51962,Philippines,27.054,18
+928,a_cool_name,90174,idk,27.008,1
+929,kiolog,74240,idk,26.993,7
+930,ProtocolZ,78764,idk,26.96,2
+931,spoilers,80844,India,26.957,27
+932,sh3llpwn,65394,India,26.942,20
+933,L3G1ON_Of_DooM,75880,Australia,26.918,13
+934,Cyber Pig Security,31315,Germany,26.918,5
+935,Crimson Agents,5316,United States,26.873,13
+936,RareInputs,80328,idk,26.87,3
+937,theuser,56875,idk,26.863,8
+938,B&C,10227,idk,26.849,2
+939,HayyimAndSwag,79779,idk,26.847,1
+940,night_is_dark_and_full_of_errors,82304,Slovakia,26.753,5
+941,hhro,61621,"Korea, Republic of",26.701,11
+942,SavedByTheShell,78233,United States,26.661,14
+943,Sky,11195,idk,26.657,15
+944,tomcr00se,5162,United States,26.591,5
+945,The_Shy,73660,China,26.571,15
+946,Jus7w333,84460,China,26.5,9
+947,Unicorn (hack|rid|pwn)ers,70313,idk,26.471,7
+948,0x48piraj,44537,India,26.464,5
+949,squareroots,554,Germany,26.46,5
+950,Honeypot,405,Russian Federation,26.44,11
+951,fzhshzh,83758,idk,26.427,34
+952,Asuri,65539,China,26.387,4
+953,Bulldogs,534,idk,26.385,5
+954,vm00s3,53065,India,26.36,4
+955,DarkArmy,26569,India,26.342,10
+956,F2H,68964,idk,26.318,6
+957,Tp0t,69029,idk,26.316,6
+958,VAPatriot ScubaSquad,73620,United States,26.312,6
+959,My pipe to grep,72782,idk,26.307,1
+960,ACME Pharmaceuticals,1020,idk,26.289,2
+961,the big boys,88317,idk,26.278,3
+962,JohnPwnJones,49718,idk,26.276,11
+963,0x00sec,43251,idk,26.269,3
+964,commandos,24752,idk,26.26,5
+965,BotMF,88996,China,26.216,4
+966,JustTest,74869,China,26.185,3
+967,TwitchSec,72700,idk,26.119,5
+968,FlagaDoS,73424,France,26.113,20
+969,Kamneezhka,54542,Russian Federation,26.109,7
+970,FS0C,53163,idk,26.084,10
+971,ScarletMagic,73618,Japan,26.056,19
+972,h4ck7u5,65962,Germany,26.053,56
+973,kernelpoppers,46051,United States,26.04,9
+974,0xaba0f09d,79780,idk,26.039,1
+975,BinX,73757,China,26.037,5
+976,MvtinaPwn,47420,Italy,25.932,6
+977,waffle_1,106382,idk,25.892,1
+978,0pt1x,75867,Holy See (Vatican City State),25.868,6
+979,GOST in the shell,76271,Russian Federation,25.854,8
+980,ItsJustMe,36671,Poland,25.829,2
+981,Noid3a,75187,Indonesia,25.825,20
+982,Pastafrola,51825,Argentina,25.786,5
+983,robshell,76233,idk,25.767,1
+984,checksec,70905,idk,25.763,1
+985,SojuTigerBomb,53823,idk,25.738,7
+986,Corrupted Reflection,20904,Russian Federation,25.733,2
+987,Blackfoot Security,69008,France,25.729,5
+988,PersianCats,54605,United States,25.719,7
+989,CyberGirafe,72912,idk,25.708,5
+990,Sun*$hell,81906,Viet Nam,25.565,13
+991,test,741,idk,25.547,20
+992,PiwiKapaya,76234,idk,25.507,1
+993,VTeam,27301,idk,25.489,4
+994,BlackCat,29339,idk,25.486,3
+995,黑灰化肥灰會揮發發灰黑諱為黑灰花會飛,72698,"Taiwan, Republic of China",25.364,2
+996,sh4d0w58t,91118,idk,25.337,22
+997,IASG,34958,United States,25.272,5
+998,!soBad,42327,Poland,25.254,5
+999,Luz,76250,idk,25.24,9
+1000,SHSUCT,75384,idk,25.23,2
+1001,YBS,47503,idk,25.2,17
