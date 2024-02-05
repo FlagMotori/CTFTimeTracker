@@ -1,0 +1,2 @@
+# CTFTimeTracker
+CTFTIME rankings tracker
